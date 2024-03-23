@@ -28,7 +28,7 @@ I'm also passionate about **regional development** 🌎 and **community building
 Feel free to **connect with me** on [LinkedIn](https://www.linkedin.com/in/brian-m-shifoko/) 💼 or [Twitter](https://twitter.com/BraYooh_G_Host/) 🐦 or [Instagram](https://www.instagram.com/braayooh_g_host/) 📸!
 
 
-}
+
 <div align="center">
   <a href="https://www.linkedin.com/in/brian-m-shifoko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
