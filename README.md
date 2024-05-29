@@ -6,8 +6,6 @@ I am a versatile **Front End Developer**, **Digital Marketer**, and **Virtual As
 
 ## 🌐 Connect with Me
 
-Feel free to **connect with me** on [LinkedIn](https://www.linkedin.com/in/brian-m-shifoko/) 💼 or [Twitter](https://twitter.com/BraYooh_G_Host/) 🐦 or [Instagram](https://www.instagram.com/braayooh_g_host/) 📸!
-
 <div align="center">
   <a href="https://www.linkedin.com/in/brian-m-shifoko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,9 +21,11 @@ Feel free to **connect with me** on [LinkedIn](https://www.linkedin.com/in/brian
 ## Front End Developer 💻
 I specialize in creating intuitive and user-friendly web applications using **HTML**, **CSS**, **JavaScript**, and leading front-end frameworks. I stay ahead of the curve by continuously learning the latest tech trends and developments 🚀, ensuring I deliver modern and efficient solutions.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&langs_count=8&theme=default&hide_title=true)
 
-![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true)
+
+![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)
+
 
 
 ## Digital Marketer 📈
