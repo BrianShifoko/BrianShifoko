@@ -7,16 +7,19 @@ I am a versatile **Front End Developer**, **Digital Marketer**, and **Virtual As
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/brian-m-shifoko/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://twitter.com/BraaYooh_G_Host/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" height="30" width="40" style="margin-right: 60px;"/>
+    
   </a>
+  <a href="https://www.linkedin.com/in/brian-m-shifoko/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="margin-right: 100px;"/>
+  </a>
+  
   <a href="https://www.instagram.com/braayooh_g_host/">
-  <img src="https://img.shields.io/badge/Instagram-burgundy?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="40" style="margin-right: 140px;"/>
 </div>
+
+
 
 ## Front End Developer 💻
 I specialize in creating intuitive and user-friendly web applications using **HTML**, **CSS**, **JavaScript**, and leading front-end frameworks. I stay ahead of the curve by continuously learning the latest tech trends and developments 🚀, ensuring I deliver modern and efficient solutions.
@@ -41,9 +44,12 @@ When not working, I enjoy playing video games 🎮, chess ♟, and soccer ⚽. I
 
 ## 📄 Download My Resume
 
-<a href="https://docs.google.com/document/d/1V5dwlba8nuom0nV4ekjl3b76iIti67VyobxXTXcNdl0/edit" alt="Download my Resume" download>
-  <img src="https://img.shields.io/badge/Download-My_Resume-red?style=for-the-badge&logo=probot&logoColor=white" />
-</a>
+<div align="center">
+  <a href="https://docs.google.com/document/d/1V5dwlba8nuom0nV4ekjl3b76iIti67VyobxXTXcNdl0/edit" download>
+    <img src="https://img.shields.io/badge/Download-My_Resume-red?style=for-the-badge&logo=googledrive&logoColor=white; border-radius: 5px" alt="Download my Resume"/>
+  </a>
+</div>
+
 
 
 
