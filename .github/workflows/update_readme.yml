@@ -24,7 +24,7 @@ jobs:
           echo "\n![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)" >> README.md
           
           # Fetch and save the contributions graph as an image
-          curl -sSfL -o contributions-graph.png "https://github.com/users/BrianShifoko/contributions"
+          curl -sSfL -o contributions-graph.png "https://github-readme-stats.vercel.app/api/pin/?username=BrianShifoko&repo=github-readme-activity-graph&theme=default"
           echo "\n![GitHub Contributions](./contributions-graph.png)" >> README.md
       
       - name: Commit and push changes
