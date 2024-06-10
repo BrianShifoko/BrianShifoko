@@ -14,7 +14,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '14'  
+          node-version: '14'  # Use a valid Node.js version
       
       - name: Generate GitHub Stats and Contributions Graph
         run: |
@@ -24,7 +24,7 @@ jobs:
           echo "\n![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)" >> README.md
           
           # Fetch and save the contributions graph as an image
-          curl -sSfL -o contributions-graph.png "https://github-readme-stats.vercel.app/api/wakatime?username=BrianShifoko&layout=compact&theme=default"
+          curl -sSfL -o contributions-graph.png "https://github.com/users/BrianShifoko/contributions"
           echo "\n![GitHub Contributions](./contributions-graph.png)" >> README.md
       
       - name: Commit and push changes
