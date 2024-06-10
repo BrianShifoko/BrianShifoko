@@ -8,24 +8,31 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3  
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
       - name: Setup Node.js
-        uses: actions/setup-node@v3  
+        uses: actions/setup-node@v2
         with:
-          node-version: '20'  
-      - name: Update README
+          node-version: '14'  
+      
+      - name: Generate GitHub Stats and Contributions Graph
         run: |
           echo "# Hello, World!" > README.md
           echo "\n## GitHub Stats" >> README.md
           echo "\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&langs_count=8&theme=default&hide_title=true)" >> README.md
           echo "\n![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)" >> README.md
-          echo "\n![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=BrianShifoko&theme=default)" >> README.md
+          
+          # Fetch and save the contributions graph as an image
+          curl -sSfL -o contributions-graph.png "https://github-readme-stats.vercel.app/api/wakatime?username=BrianShifoko&layout=compact&theme=default"
+          echo "\n![GitHub Contributions](./contributions-graph.png)" >> README.md
+      
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m "Updated README stats"
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md contributions-graph.png
+          git commit -m "Update GitHub stats and contributions graph"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
