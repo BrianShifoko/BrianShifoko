@@ -19,6 +19,7 @@ jobs:
           echo "\n## GitHub Stats" >> README.md
           echo "\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&langs_count=8&theme=default&hide_title=true)" >> README.md
           echo "\n![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)" >> README.md
+          echo "\n![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=BrianShifoko&theme=default)" >> README.md
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
