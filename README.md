@@ -1,3 +1,4 @@
+---
 ## Hi, I'm Brian Shifoko
 
 I am a versatile **Front End Developer**, **Digital Marketer**, and **Virtual Assistant** passionate about technology and innovation from **Kenya**.
@@ -30,7 +31,7 @@ I stay ahead of the curve by continuously learning the latest tech trends and de
 
 ![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=BrianShifoko&theme=default)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=BrianShifoko&theme=default)
 
 ## 📊 Digital Marketer
 As a **Digital Marketer**, I develop and implement powerful marketing strategies to drive growth and enhance brand visibility. My expertise spans search engine optimization (SEO), social media marketing, and email marketing, helping businesses achieve their marketing goals effectively.
@@ -55,3 +56,5 @@ I'm also dedicated to regional development 🌍 and community building 🤝.
     <img src="https://img.shields.io/badge/Download-My_Resume-red?style=for-the-badge&logo=googledrive&logoColor=white; border-radius: 5px" alt="Download my Resume"/>
   </a>
 </div>
+
+---
