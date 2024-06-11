@@ -10,13 +10,22 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
         with:
-          node-version: '14'  # Use a valid Node.js version
-      
-      - name: Generate GitHub Stats and Contributions Graph
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests matplotlib
+
+      - name: Generate Radar Chart
+        run: |
+          python generate_radar_chart.py
+
+      - name: Update README
         run: |
           echo "---" > README.md
           echo "## Hi, I'm Brian Shifoko" >> README.md
@@ -44,6 +53,7 @@ jobs:
           echo "\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default&hide_title=true)" >> README.md
           echo "\n![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)" >> README.md
           echo "\n![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=BrianShifoko&theme=default)" >> README.md
+          echo "\n![Radar Chart](./radar_chart.png)" >> README.md
           echo "\n## 📊 Digital Marketer" >> README.md
           echo "As a **Digital Marketer**, I develop and implement powerful marketing strategies to drive growth and enhance brand visibility. My expertise spans search engine optimization (SEO), social media marketing, and email marketing, helping businesses achieve their marketing goals effectively." >> README.md
           echo "\n## 📈 Virtual Assistant" >> README.md
@@ -76,12 +86,12 @@ jobs:
           echo "  </a>" >> README.md
           echo "</div>" >> README.md
           echo "\n---" >> README.md
-      
+
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
+          git add README.md radar_chart.png
           git commit -m "Update GitHub stats and contributions graph"
           git push
         env:
