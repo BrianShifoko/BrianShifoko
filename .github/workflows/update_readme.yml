@@ -18,20 +18,57 @@ jobs:
       
       - name: Generate GitHub Stats and Contributions Graph
         run: |
-          echo "# Hello, World!" > README.md
-          echo "\n## GitHub Stats" >> README.md
-          echo "\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&langs_count=8&theme=default&hide_title=true)" >> README.md
+          echo "---" > README.md
+          echo "## Hi, I'm Brian Shifoko" >> README.md
+          echo "\nI am a versatile **Front End Developer**, **Digital Marketer**, and **Virtual Assistant** passionate about technology and innovation from **Kenya**." >> README.md
+          echo "\n## 🌐 Connect with Me" >> README.md
+          echo "Feel free to connect with me on social media:" >> README.md
+          echo "\n<div align=\"center\">" >> README.md
+          echo "  <a href=\"https://twitter.com/BraaYooh_G_Host/\" style=\"margin-right: 20px;\">" >> README.md
+          echo "    <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg\" alt=\"Twitter\" height=\"30\" width=\"40\"/>" >> README.md
+          echo "  </a>" >> README.md
+          echo "  <a href=\"https://www.linkedin.com/in/brian-m-shifoko/\" style=\"margin-right: 20px;\">" >> README.md
+          echo "    <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg\" alt=\"LinkedIn\" height=\"30\" width=\"40\"/>" >> README.md
+          echo "  </a>" >> README.md
+          echo "  <a href=\"https://www.instagram.com/braayooh_g_host/\">" >> README.md
+          echo "    <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg\" alt=\"Instagram\" height=\"30\" width=\"40\"/>" >> README.md
+          echo "  </a>" >> README.md
+          echo "</div>" >> README.md
+          echo "\n## 💻 Front End Developer" >> README.md
+          echo "I specialize in creating intuitive and user-friendly web applications using:" >> README.md
+          echo "- **HTML**" >> README.md
+          echo "- **CSS**" >> README.md
+          echo "- **JavaScript**" >> README.md
+          echo "- Leading front-end frameworks" >> README.md
+          echo "\nI stay ahead of the curve by continuously learning the latest tech trends and developments 🚀, ensuring I deliver modern and efficient solutions." >> README.md
+          echo "\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default&hide_title=true)" >> README.md
           echo "\n![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)" >> README.md
-          
-          # Fetch and save the contributions graph as an image
-          curl -sSfL -o contributions-graph.png "https://github-readme-stats.vercel.app/api/pin/?username=BrianShifoko&repo=github-readme-activity-graph&theme=default"
-          echo "\n![GitHub Contributions](./contributions-graph.png)" >> README.md
+          echo "\n![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=BrianShifoko&theme=default)" >> README.md
+          echo "\n## 📊 Digital Marketer" >> README.md
+          echo "As a **Digital Marketer**, I develop and implement powerful marketing strategies to drive growth and enhance brand visibility. My expertise spans search engine optimization (SEO), social media marketing, and email marketing, helping businesses achieve their marketing goals effectively." >> README.md
+          echo "\n## 📈 Virtual Assistant" >> README.md
+          echo "In my role as a Virtual Assistant, I provide comprehensive administrative and personal support to streamline operations and boost productivity for businesses and individuals." >> README.md
+          echo "\n## 🌟 Entrepreneur" >> README.md
+          echo "As an Entrepreneur, I actively seek opportunities to start and grow businesses across various industries, driven by a passion for innovation and growth." >> README.md
+          echo "\n## 🎮 Personal Interests" >> README.md
+          echo "When not working, I enjoy:" >> README.md
+          echo "- Playing video games" >> README.md
+          echo "- Chess" >> README.md
+          echo "- Soccer" >> README.md
+          echo "\nI'm also dedicated to regional development 🌍 and community building 🤝." >> README.md
+          echo "\n## 📄 Download My Resume" >> README.md
+          echo "<div align=\"center\">" >> README.md
+          echo "  <a href=\"https://docs.google.com/document/d/1V5dwlba8nuom0nV4ekjl3b76iIti67VyobxXTXcNdl0/edit\" download>" >> README.md
+          echo "    <img src=\"https://img.shields.io/badge/Download-My_Resume-red?style=for-the-badge&logo=googledrive&logoColor=white; border-radius: 5px\" alt=\"Download my Resume\"/>" >> README.md
+          echo "  </a>" >> README.md
+          echo "</div>" >> README.md
+          echo "\n---" >> README.md
       
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md contributions-graph.png
+          git add README.md
           git commit -m "Update GitHub stats and contributions graph"
           git push
         env:
