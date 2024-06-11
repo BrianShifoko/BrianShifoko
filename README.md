@@ -1,5 +1,5 @@
 ---
-## Hi, I'm Brian Shifoko
+## Hi :wave:, I'm BRIAN SHIFOKO
 
 I am a versatile **Front End Developer**, **Digital Marketer**, and **Virtual Assistant** passionate about technology and innovation from **Kenya**.
 
@@ -23,7 +23,7 @@ I specialize in creating intuitive and user-friendly web applications using:
 - **HTML**
 - **CSS**
 - **JavaScript**
-- Leading front-end frameworks
+- **Leading front-end frameworks**
 
 I stay ahead of the curve by continuously learning the latest tech trends and developments 🚀, ensuring I deliver modern and efficient solutions.
 
@@ -42,12 +42,15 @@ I stay ahead of the curve by continuously learning the latest tech trends and de
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="Figma" height="30" width="30"/>
 </div>
 
+<div align="center">
+  
 ![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default&hide_title=false)
 
 ![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)
 
 ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=BrianShifoko&theme=default)
 
+</div>
 ## 📊 Digital Marketer
 As a **Digital Marketer**, I develop and implement powerful marketing strategies to drive growth and enhance brand visibility. My expertise spans search engine optimization (SEO), social media marketing, and email marketing, helping businesses achieve their marketing goals effectively.
 
