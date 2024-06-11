@@ -26,8 +26,21 @@ I specialize in creating intuitive and user-friendly web applications using:
 - Leading front-end frameworks
 
 I stay ahead of the curve by continuously learning the latest tech trends and developments 🚀, ensuring I deliver modern and efficient solutions.
+## 🛠 Tools and Languages
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" alt="Bootstrap" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/netlify.svg" alt="Netlify" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" alt="Visual Studio Code" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="Figma" height="30" width="30"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default&hide_title=true)
+![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default&hide_title=true)
 
 ![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)
 
