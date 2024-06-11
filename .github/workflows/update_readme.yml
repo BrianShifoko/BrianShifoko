@@ -50,6 +50,19 @@ jobs:
           echo "In my role as a Virtual Assistant, I provide comprehensive administrative and personal support to streamline operations and boost productivity for businesses and individuals." >> README.md
           echo "\n## 🌟 Entrepreneur" >> README.md
           echo "As an Entrepreneur, I actively seek opportunities to start and grow businesses across various industries, driven by a passion for innovation and growth." >> README.md
+          echo "\n## 🛠 Tools and Languages" >> README.md
+          echo "<div align=\"center\">" >> README.md
+          echo "  <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg\" alt=\"Git\" height=\"30\" width=\"30\" style=\"margin-right: 10px;\"/>" >> README.md
+          echo "  <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg\" alt=\"HTML\" height=\"30\" width=\"30\" style=\"margin-right: 10px;\"/>" >> README.md
+          echo "  <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg\" alt=\"CSS\" height=\"30\" width=\"30\" style=\"margin-right: 10px;\"/>" >> README.md
+          echo "  <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg\" alt=\"Bootstrap\" height=\"30\" width=\"30\" style=\"margin-right: 10px;\"/>" >> README.md
+          echo "  <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg\" alt=\"JavaScript\" height=\"30\" width=\"30\" style=\"margin-right: 10px;\"/>" >> README.md
+          echo "  <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg\" alt=\"Docker\" height=\"30\" width=\"30\" style=\"margin-right: 10px;\"/>" >> README.md
+          echo "  <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/netlify.svg\" alt=\"Netlify\" height=\"30\" width=\"30\" style=\"margin-right: 10px;\"/>" >> README.md
+          echo "  <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg\" alt=\"GitHub\" height=\"30\" width=\"30\" style=\"margin-right: 10px;\"/>" >> README.md
+          echo "  <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg\" alt=\"Visual Studio Code\" height=\"30\" width=\"30\" style=\"margin-right: 10px;\"/>" >> README.md
+          echo "  <img src=\"https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg\" alt=\"Figma\" height=\"30\" width=\"30\"/>" >> README.md
+          echo "</div>" >> README.md
           echo "\n## 🎮 Personal Interests" >> README.md
           echo "When not working, I enjoy:" >> README.md
           echo "- Playing video games" >> README.md
