@@ -48,7 +48,7 @@ I stay ahead of the curve by continuously learning the latest tech trends and de
 
 ![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=BrianShifoko&theme=default)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=BrianShifoko) 
 
 </div>
 
