@@ -26,7 +26,9 @@ I specialize in creating intuitive and user-friendly web applications using:
 - Leading front-end frameworks
 
 I stay ahead of the curve by continuously learning the latest tech trends and developments 🚀, ensuring I deliver modern and efficient solutions.
+
 ## 🛠 Tools and Languages
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML" height="30" width="30" style="margin-right: 10px;"/>
@@ -40,7 +42,7 @@ I stay ahead of the curve by continuously learning the latest tech trends and de
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="Figma" height="30" width="30"/>
 </div>
 
-![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default&hide_title=true)
+![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default&hide_title=false)
 
 ![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)
 
