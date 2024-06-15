@@ -1,20 +1,21 @@
----
 ## Hi :wave:, I'm BRIAN SHIFOKO
 
-I am a versatile **Front End Developer**, **Digital Marketer**, and **Virtual Assistant** passionate about technology and innovation from **Kenya**.
+I am a versatile **Front End Developer**, **Digital Marketer**, and **Virtual Assistant** Passionate about technology and innovation from **Kenya**.
 
 ## 🌐 Connect with Me
 Feel free to connect with me on social media:
 
 <div align="center">
-  <a href="https://twitter.com/BraaYooh_G_Host/" style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" height="30" width="40"/>
+  <a href="https://twitter.com/BraaYooh_G_Host/" style="margin-right: 30px;">
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" alt="Twitter" height="30" width="30"/>
   </a>
-  <a href="https://www.linkedin.com/in/brian-m-shifoko/" style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
+  
+  <a href="https://www.linkedin.com/in/brian-m-shifoko/" style="margin-right: 30px;">
+    <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="LinkedIn" height="30" width="30"/>
   </a>
-  <a href="https://www.instagram.com/braayooh_g_host/" style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="40"/>
+  
+  <a href="https://www.instagram.com/braayooh_g_host/" style="margin-right: 30px;">
+    <img src="https://cdn-icons-png.flaticon.com/128/10090/10090288.png" alt="Instagram" height="30" width="30"/>
   </a>
 </div>
 
@@ -75,5 +76,3 @@ I'm also dedicated to regional development 🌍 and community building 🤝.
     <img src="https://img.shields.io/badge/Download-My_Resume-red?style=for-the-badge&logo=googledrive&logoColor=white; border-radius: 5px" alt="Download my Resume"/>
   </a>
 </div>
-
----
