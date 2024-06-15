@@ -7,7 +7,7 @@ Feel free to connect with me on social media:
 
 <div align="center">
   <a href="https://twitter.com/BraaYooh_G_Host/" style="margin-right: 30px;">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" alt="Twitter" height="40" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="Twitter" height="40" width="40"/>
   </a>
   
   <a href="https://www.linkedin.com/in/brian-m-shifoko/" style="margin-right: 30px;">
@@ -31,16 +31,17 @@ I stay ahead of the curve by continuously learning the latest tech trends and de
 ## 🛠 Tools and Languages
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/bootstrap.svg" alt="Bootstrap" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="HTML" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="CSS" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/15466/15466088.png" alt="Docker" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/netlify.svg" alt="Netlify" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg" alt="Visual Studio Code" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="Figma" height="30" width="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" alt="GitHub" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" alt="Visual Studio Code" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/9672/9672242.png" alt="Database" height="30" width="30" style="margin-right: 10px;"/>
 </div>
 
 <div align="center">
