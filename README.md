@@ -7,15 +7,15 @@ Feel free to connect with me on social media:
 
 <div align="center">
   <a href="https://twitter.com/BraaYooh_G_Host/" style="margin-right: 30px;">
-    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" alt="Twitter" height="30" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" alt="Twitter" height="40" width="40"/>
   </a>
   
   <a href="https://www.linkedin.com/in/brian-m-shifoko/" style="margin-right: 30px;">
-    <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="LinkedIn" height="30" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="LinkedIn" height="40" width="40"/>
   </a>
   
   <a href="https://www.instagram.com/braayooh_g_host/" style="margin-right: 30px;">
-    <img src="https://cdn-icons-png.flaticon.com/128/10090/10090288.png" alt="Instagram" height="30" width="30"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/10090/10090288.png" alt="Instagram" height="40" width="40"/>
   </a>
 </div>
 
