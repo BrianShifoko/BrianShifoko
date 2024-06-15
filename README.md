@@ -15,7 +15,7 @@ Feel free to connect with me on social media:
   </a>
   
   <a href="https://www.instagram.com/braayooh_g_host/" style="margin-right: 30px;">
-    <img src="https://cdn-icons-png.flaticon.com/128/10090/10090288.png" alt="Instagram" height="40" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="Instagram" height="40" width="40"/>
   </a>
 </div>
 
@@ -31,16 +31,17 @@ I stay ahead of the curve by continuously learning the latest tech trends and de
 ## 🛠 Tools and Languages
 
 <div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" alt="Visual Studio Code" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" alt="GitHub" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="HTML" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="CSS" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn-icons-png.flaticon.com/128/15466/15466088.png" alt="Docker" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/netlify.svg" alt="Netlify" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" alt="GitHub" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" alt="Visual Studio Code" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn-icons-png.flaticon.com/128/9672/9672242.png" alt="Database" height="30" width="30" style="margin-right: 10px;"/>
 </div>
 
@@ -73,6 +74,7 @@ I'm also dedicated to regional development 🌍 and community building 🤝.
 
 ## 📄 Download My Resume
 <div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/15827/15827578.png" alt="Resume Animation" height="30" width="30" style="margin-right: 10px;"/>
   <a href="https://docs.google.com/document/d/1V5dwlba8nuom0nV4ekjl3b76iIti67VyobxXTXcNdl0/edit" download>
     <img src="https://img.shields.io/badge/Download-My_Resume-red?style=for-the-badge&logo=googledrive&logoColor=white; border-radius: 5px" alt="Download my Resume"/>
   </a>
