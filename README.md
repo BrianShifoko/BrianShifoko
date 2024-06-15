@@ -13,7 +13,7 @@ Feel free to connect with me on social media:
   <a href="https://www.linkedin.com/in/brian-m-shifoko/" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.instagram.com/braayooh_g_host/">
+  <a href="https://www.instagram.com/braayooh_g_host/" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </div>
