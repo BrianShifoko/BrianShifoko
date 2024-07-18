@@ -43,6 +43,7 @@ I stay ahead of the curve by continuously learning the latest tech trends and de
   <img src="https://cdn-icons-png.flaticon.com/128/15466/15466088.png" alt="Docker" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPljZjEifmq91JkJoikah4_jXlGZ1klHRqQ&s" alt="Netlify" height="30" width="30" style="margin-right: 10px;"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="PostgreSQL" height="30" width="30" style="margin-right: 10px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDML5CFq70Y9FJ52YnyCjfdyUA3g9B6is_jA&s" alt="Tailwind" height="30" width="30" style="margin-right: 10px;"/>
 </div>
 
 <div align="center">
