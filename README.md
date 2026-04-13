@@ -1,80 +1,149 @@
-## Hi :wave:, I'm BRIAN SHIFOKO
+# Hi, I'm Brian Shifoko
 
-I am a versatile **Front End Developer**, **Digital Marketer**, and **Virtual Assistant** Passionate about technology and innovation from **Kenya**.
+I am a **Software Developer, Digital Marketing Lead, Tech Instructor, and Creative Strategist** based in **Kenya**.
 
-## 🌐 Connect with Me
-Feel free to connect with me on social media:
+I build **modern web applications, business systems, and digital solutions** that solve real problems for organizations, brands, and communities. My work combines **software development, digital marketing, training, and creative storytelling** to create practical and impactful results.
 
-<div align="center">
-  <a href="https://twitter.com/BraaYooh_G_Host/" style="margin-right: 30px;">
+---
+
+## About Me
+
+I work at the intersection of **technology, education, business, and digital communication**.
+
+Over time, I have grown from focusing on front-end development to building and supporting **complete digital systems**, improving user experiences, and helping organizations strengthen their online presence.
+
+My experience includes:
+
+- Building web applications and custom systems
+- Developing user-focused digital products
+- Supporting organizations with digital marketing and visibility
+- Teaching digital skills, design, and technology
+- Creating content around tech, business, and innovation
+
+I am passionate about using technology not just to build products, but to create solutions that are useful, scalable, and meaningful.
+
+---
+
+## What I Do
+
+### Software Development
+I build responsive and practical digital products including:
+
+- Business systems
+- Web applications
+- Admin dashboards
+- Booking and management platforms
+- Custom websites and digital tools
+
+My focus is on building solutions that are clean, functional, and easy for users to work with.
+
+### Digital Marketing
+I help brands and organizations grow through:
+
+- SEO
+- Social media strategy
+- Content marketing
+- Brand visibility
+- Campaign planning
+- Digital growth strategy
+
+I understand how technology and marketing work together to improve reach, trust, and conversion.
+
+### Training & Mentorship
+I also work as a trainer and instructor, supporting learners in areas such as:
+
+- Digital marketing
+- Web development
+- Graphic design
+- Digital skills
+- Tech tools for productivity and growth
+
+I enjoy simplifying complex ideas and helping others build practical skills that can create real opportunities.
+
+---
+
+## Tech Stack
+
+### Languages & Development
+- HTML
+- CSS
+- JavaScript
+- Python
+- TypeScript
+
+### Frameworks & Tools
+- Next.js
+- React
+- Tailwind CSS
+- Bootstrap
+- Git
+- GitHub
+- Docker
+- Figma
+- PostgreSQL
+- VS Code
+
+---
+
+## What I Care About
+
+I am interested in:
+
+- Building technology that solves real problems
+- Digital innovation in Africa
+- Tech education and skills development
+- Entrepreneurship and business growth
+- Community impact through technology
+- Creative storytelling through content, photography, and video
+
+---
+
+## Current Focus
+
+Right now, I am focused on:
+
+- Building more scalable business systems and web platforms
+- Growing my work in software development and digital consulting
+- Teaching and mentoring learners in tech and digital skills
+- Creating content around technology, business, and innovation
+- Expanding opportunities through collaboration and impactful projects
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/BraaYooh_G_Host">
     <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="Twitter" height="40" width="40"/>
   </a>
-  
-  <a href="https://www.linkedin.com/in/brian-m-shifoko/" style="margin-right: 30px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brian-m-shifoko/">
     <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="LinkedIn" height="40" width="40"/>
   </a>
-  
-  <a href="https://www.instagram.com/braayooh_g_host/" style="margin-right: 30px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/braayooh_g_host/">
     <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="Instagram" height="40" width="40"/>
   </a>
-</div>
+</p>
 
-## 💻 Front End Developer
-I specialize in creating intuitive and user-friendly web applications using:
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Leading front-end frameworks**
+---
 
-I stay ahead of the curve by continuously learning the latest tech trends and developments 🚀, ensuring I deliver modern and efficient solutions.
+## GitHub Stats
 
-## 🛠 Tools and Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default" alt="Most Used Languages" />
+</p>
 
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" alt="Visual Studio Code" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png" alt="GitHub" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" alt="Figma" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="HTML" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="CSS" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/15466/15466088.png" alt="Docker" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTPljZjEifmq91JkJoikah4_jXlGZ1klHRqQ&s" alt="Netlify" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="PostgreSQL" height="30" width="30" style="margin-right: 10px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDML5CFq70Y9FJ52YnyCjfdyUA3g9B6is_jA&s" alt="Tailwind" height="30" width="30" style="margin-right: 10px;"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default" alt="Brian Shifoko GitHub Stats" />
+</p>
 
-<div align="center">
-  
-![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default&hide_title=false)
+---
 
-![BrianShifoko's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default)
+## Resume
 
-</div>
-
-## 📊 Digital Marketer
-As a **Digital Marketer**, I develop and implement powerful marketing strategies to drive growth and enhance brand visibility. My expertise spans search engine optimization (SEO), social media marketing, and email marketing, helping businesses achieve their marketing goals effectively.
-
-## 📈 Virtual Assistant
-In my role as a Virtual Assistant, I provide comprehensive administrative and personal support to streamline operations and boost productivity for businesses and individuals.
-
-## 🌟 Entrepreneur
-As an Entrepreneur, I actively seek opportunities to start and grow businesses across various industries, driven by a passion for innovation and growth.
-
-## 🎮 Personal Interests
-When not working, I enjoy:
-- Playing video games
-- Chess
-- Soccer
-
-I'm also dedicated to regional development 🌍 and community building 🤝.
-
-## 📄 Download My Resume
-<div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/15827/15827578.png" alt="Resume Animation" height="30" width="30" style="margin-right: 10px;"/>
-  <a href="https://docs.google.com/document/d/1V5dwlba8nuom0nV4ekjl3b76iIti67VyobxXTXcNdl0/edit" download>
-    <img src="https://img.shields.io/badge/Download-My_Resume-red?style=for-the-badge&logo=googledrive&logoColor=white; border-radius: 5px" alt="Download my Resume"/>
+<p align="center">
+  <a href="https://docs.google.com/document/d/1V5dwlba8nuom0nV4ekjl3b76iIti67VyobxXTXcNdl0/edit">
+    <img src="https://img.shields.io/badge/Resume-View%20My%20CV-red?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
-</div>
+</p>
