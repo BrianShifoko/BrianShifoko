@@ -135,11 +135,15 @@ Right now, I am focused on:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianShifoko&layout=compact&theme=default&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&theme=default&commits_year=2026" alt="Brian Shifoko GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&theme=default&include_all_commits=true&hide=issues,contribs" alt="Brian Shifoko GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrianShifoko&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
 
 ---
