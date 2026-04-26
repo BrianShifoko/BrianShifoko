@@ -1,8 +1,8 @@
 # Hi, I'm Brian Shifoko
 
-I am a **Software Developer, Digital Marketing Lead, Tech Instructor, and Creative Strategist** based in **Kenya**.
+I am a **Software Developer, Systems Builder, Digital Marketing Lead, Tech Instructor, and Creative Strategist** based in **Kenya**.
 
-I build **modern web applications, business systems, and digital solutions** that solve real problems for organizations, brands, and communities. My work combines **software development, digital marketing, training, and creative storytelling** to create practical and impactful results.
+I build **modern web applications, business systems, and digital solutions** that solve real problems for organizations, brands, and communities. My work combines **software development, digital marketing, training, and creative storytelling** to create practical, impactful, and scalable results.
 
 ---
 
@@ -10,7 +10,7 @@ I build **modern web applications, business systems, and digital solutions** tha
 
 I work at the intersection of **technology, education, business, and digital communication**.
 
-Over time, I have grown from focusing on front-end development to building and supporting **complete digital systems**, improving user experiences, and helping organizations strengthen their online presence.
+Over time, I have grown from front-end development into building and supporting **complete systems, digital platforms, and user-focused solutions** that help businesses operate better and grow stronger online.
 
 My experience includes:
 
@@ -68,8 +68,8 @@ I enjoy simplifying complex ideas and helping others build practical skills that
 - HTML
 - CSS
 - JavaScript
-- Python
 - TypeScript
+- Python
 
 ### Frameworks & Tools
 - Next.js
@@ -102,7 +102,7 @@ I am interested in:
 
 Right now, I am focused on:
 
-- Building more scalable business systems and web platforms
+- Building scalable business systems and digital platforms
 - Growing my work in software development and digital consulting
 - Teaching and mentoring learners in tech and digital skills
 - Creating content around technology, business, and innovation
@@ -113,15 +113,19 @@ Right now, I am focused on:
 ## Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/BraaYooh_G_Host">
-    <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="Twitter" height="40" width="40"/>
+  <a href="https://web.facebook.com/profile.php?id=61573201951828">
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="Facebook" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/BrianShifoko">
+    <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="X" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brian-m-shifoko/">
     <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="LinkedIn" height="40" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/braayooh_g_host/">
+  <a href="https://www.instagram.com/brian_shifoko/">
     <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="Instagram" height="40" width="40"/>
   </a>
 </p>
@@ -135,7 +139,7 @@ Right now, I am focused on:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&count_private=true&theme=default" alt="Brian Shifoko GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrianShifoko&show_icons=true&theme=default&commits_year=2026" alt="Brian Shifoko GitHub Stats" />
 </p>
 
 ---
