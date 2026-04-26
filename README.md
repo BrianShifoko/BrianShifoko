@@ -112,23 +112,7 @@ Right now, I am focused on:
 
 ## Connect With Me
 
-<p align="center">
-  <a href="https://web.facebook.com/profile.php?id=61573201951828">
-    <img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="Facebook" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/BrianShifoko">
-    <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="X" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brian-m-shifoko/">
-    <img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brian_shifoko/">
-    <img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="Instagram" height="40" width="40"/>
-  </a>
-</p>
+<p align="center"><a href="https://web.facebook.com/profile.php?id=61573201951828"><img src="https://cdn-icons-png.flaticon.com/128/733/733547.png" alt="Facebook" height="40" width="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/BrianShifoko"><img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="X" height="40" width="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/brian-m-shifoko/"><img src="https://cdn-icons-png.flaticon.com/128/1377/1377213.png" alt="LinkedIn" height="40" width="40"/></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/brian_shifoko/"><img src="https://cdn-icons-png.flaticon.com/128/3955/3955024.png" alt="Instagram" height="40" width="40"/></a></p>
 
 ---
 
